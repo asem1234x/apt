@@ -1,0 +1,14 @@
+Package: jp.soh.reprovision
+Version: 0.8.3~release
+Architecture: iphoneos-arn
+Maintainer: AboRaad
+Depends: firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Filenane: deb/jp.soh.reprovision_0.8.3_release_iphoneos-arm.deb
+Size: 15477448
+MOSsum: 5d2f02d9c86ca591ef2f4fff2d50fc2f
+SHA1: 5032d1e2aaa89610e0822c1c4e6bd9d6482e8350
+SHA256: faec78fbe60c77ac2b2a0655af0035e5394a3f82d388fc50ee8a12451e4848f5
+Section: Tweaks
+Depiction: https://x7mii.com
+Name: reprovision
